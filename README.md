@@ -8,7 +8,7 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Anjalii-Patel&style=for-the-badge&color=333333" alt="Profile Views" />
-  <a href="[https://Anjalii-Patel.github.io/](https://anjalii-patel.github.io/Portfolio/)" target="_blank">
+  <a href="https://anjalii-patel.github.io/Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
 </div>
