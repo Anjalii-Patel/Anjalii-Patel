@@ -1,107 +1,128 @@
 <h1 align="center">
-  <img src="https://your-image-url-here.com/banner.png" alt="Anjali Patel GitHub Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b5876,100:4e4376&height=180&section=header&text=Anjali%20Patel&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </h1>
 
 <p align="center">
-  <em>Final Year CS Student | AI/ML Engineer | LLM Practitioner | RAG Enthusiast</em>
+  <b>AI/ML Engineer · Speech & LLM Systems · Applied Research</b>
 </p>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Anjalii-Patel&style=for-the-badge&color=333333" alt="Profile Views" />
-  <a href="https://anjalii-patel.github.io/Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=333333&height=2&section=header&width=100%" />
-<br/>
-
-
-<kbd>
-  <!-- GitHub trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Anjalii-Patel&theme=nord&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=false&border_radius=10" alt="Trophies" />
-
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=333333&height=2&section=header&width=100%" />
-
-</kbd>
-
-
----
-
-### 👩‍💻 About Me
-
-- 🎓 Final-year B.E. Computer Science student (Minor in AI/ML)  
-- 💬 Ask me about LLMs, RAG, NLP, deployment, and applied ML  
-- 🧠 Obsessed with building voice-driven AI systems and domain-specific Q&A tools  
-- 🌍 Ahmedabad, India  
-- 📫 [anjalijpatel.45@gmail.com](mailto:anjalijpatel.45@gmail.com)
-
----
-
-### 💼 Work Experience Highlights
-
-**Artem Health Tech Pvt. Ltd.**  
-*Associate AI-ML Engineer* | Jun 2025 – Present  
-*AI-ML Intern* | Dec 2024 – May 2025
-
-- 🧠 Fine-tuned LLMs using LoRA, PEFT for domain-specific healthcare use cases  
-- 🗣 Built a Whisper + RAG speech assistant for doctors  
-- ⚙️ Scaled FastAPI/Docker ML pipelines with ChromaDB and FAISS
-
----
-
-### 📌 Projects
-
-- **💬 Domain-Specific QA System** (Finance RAG, FAISS, ChromaDB, Streamlit)  
-- **📂 Text Classifier with Transformers** (Distillation + Web API)  
-- **🗣 Speech Assistant** (Whisper ASR + LangChain + RAG)
-
----
-
-### 🛠️ Tech Stack
-
-**Languages:**  
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) 
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql)
-
-**Frameworks/Tools:**  
-![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)
-![HuggingFace](https://img.shields.io/badge/-🤗%20HuggingFace-05122A?style=flat)
-![LangChain](https://img.shields.io/badge/-LangChain-05122A?style=flat)
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
-![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
-![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)
-
----
-
-### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anjalii-Patel&show_icons=true&theme=radical&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjalii-Patel&layout=compact&theme=radical&langs_count=8" height="170"/>
+  <img src="https://komarev.com/ghpvc/?username=Anjalii-Patel&style=flat-square&color=555555"/>
+  <img src="https://img.shields.io/badge/Focus-Speech%20%7C%20LLMs%20%7C%20RAG-4e4376?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Location-Ahmedabad,%20India-2b5876?style=flat-square"/>
 </p>
 
----
-
-### 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anjalii-Patel&theme=react-dark&area=true&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Anjalii-Patel&theme=nord&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+</p>
+<hr style="border: none; height: 1px; background-color: #e5e7eb; margin: 2rem 0;" />
+
+
+## 👩‍💻 About Me
+
+I’m an **AI/ML Engineer** working at the intersection of speech systems, large language models, and retrieval-based AI. My work focuses on building machine learning systems with clear evaluation, robustness, and deployment considerations.
+
+I’m particularly interested in:
+- building **reliable, production-ready ML systems**
+- **fine-tuning and optimizing models** (PEFT, LoRA)
+- understanding **failure modes**, not just optimizing metrics
+
+📫 **Email:** anjalijpatel.45@gmail.com  
+📍 **Location:** Ahmedabad, India  
+
+<hr style="border: none; height: 1px; background-color: #e5e7eb; margin: 2rem 0;" />
+
+## 💼 What I Work On
+
+### 🏥 Artem Health Tech Pvt. Ltd.  
+
+- Fine-tuned LLMs using **LoRA & PEFT** for healthcare workflows  
+- Built **speech-to-text pipelines** integrated with downstream NLP systems  
+- Applied pruning, distillation, and evaluation-driven optimization  
+- Developed **FastAPI-based ML services** with reproducible experiments  
+
+## 🚀 Featured Projects
+
+### 🩺 Medinova — AI-Powered Medical Assistant  
+
+- End-to-end system combining **speech, documents, and RAG**
+- Voice input via Whisper ASR
+- PDF/DOCX ingestion with embedding-based retrieval
+- FAISS vector search + Redis conversational memory
+- Local LLM inference using Ollama
+- Modular orchestration via LangGraph
+
+
+
+### 💬 Domain-Specific RAG QA (Finance)
+
+- Built retrieval-augmented QA over financial documents  
+- Implemented chunking, embeddings, and vector search  
+- Fine-tuned **Flan-T5-XL** for domain adaptation  
+- Evaluated using **BLEU, ROUGE, similarity metrics**
+
+
+
+### 🗣 Speech-to-Text Fine-Tuning (Regional Languages)
+
+- Fine-tuned pretrained STT models for regional data  
+- Audio preprocessing and segmentation pipelines  
+- Error analysis-driven iteration  
+- Focused on **generalization and reliability**
+
+
+## 🛠️ Tech Stack
+
+### Languages
+**Python** · **C / C++** · **SQL**
+
+
+
+### Machine Learning & AI
+- **Deep Learning:** PyTorch, TensorFlow
+- **Large Language Models:** Model Fine-tuning, PEFT (LoRA), Instruction tuning  
+- **Speech Systems:** Whisper, Faster-whisper  
+- **NLP & Retrieval:** Embeddings, Similarity Search, RAG  
+- **Evaluation:** Error analysis, BLEU, ROUGE, Similarity metrics  
+
+
+
+### LLM Orchestration
+- **Frameworks:** LangChain, LangGraph, Hugging Face Transformers
+- **Vector Databases:** FAISS, ChromaDB  
+- **APIs:** FastAPI, REST  
+- **State & Memory:** Redis  
+
+
+
+### Infrastructure & Tooling
+Docker · Git · Linux
+
+
+## 📊 GitHub Activity
+
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anjalii-Patel&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjalii-Patel&layout=compact&theme=tokyonight" height="160"/>
+</p> -->
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anjalii-Patel&theme=tokyo-night&hide_border=true"/>
 </p>
 
----
 
-### 🏆 Certifications
+## 🎓 Learning & Training
 
-- 🧠 Multi-Agent AI Systems – *DeepLearning.AI*  
-- 📊 Machine Learning Specialization – *Stanford (Coursera)*  
-- 🔬 TensorFlow for AI, ML & DL – *Coursera*
+- Machine Learning Specialization — Coursera
+- Multi-Agent Systems (crewAI) — DeepLearning.AI  
+- TensorFlow for AI, ML & DL — Coursera  
 
----
 
-<!-- 
-This README.md is part of Anjalii-Patel/Anjalii-Patel special GitHub profile repository
--->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e4376,100:2b5876&height=120&section=footer"/>
+</p>
+
+<p align="center">
+  <sub>Open to research collaborations and applied ML opportunities.</sub>
+</p>
